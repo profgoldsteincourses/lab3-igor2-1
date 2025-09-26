@@ -1,6 +1,6 @@
 # names.py
 # CSIS-110 Fall 2025
-# Ira Goldstein
+# Ira Goldstein redux
 
 # Simple loop using range()
 
