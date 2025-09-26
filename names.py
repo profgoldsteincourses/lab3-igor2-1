@@ -11,5 +11,5 @@ def printNames():
         print ( myName )
 
 
-# Call our function
+# Call our nice function
 printNames()
